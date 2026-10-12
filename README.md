@@ -1,5 +1,9 @@
 # Excel Data Analysis – Sales & Orders Dashboard
 
+## Dashboard Preview
+
+<img width="1367" height="912" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/2e59539e-9eef-4cde-80f4-6f628e2b125d" />
+
 ## Project Overview
 This Excel project focuses on analyzing sales and order data across different markets and regions, using Microsoft Excel to organize, summarize, and visualize business information.
 
